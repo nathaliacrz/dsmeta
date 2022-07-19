@@ -5,6 +5,7 @@ quando solicitado, informando sobre a venda.
 
 Tecnologias utilizadas:
 
-FRONT-END: React 
-BACK-END: Java com SpringBoot Framework
-Banco de dados: H2
+FRONT-END: React //
+BACK-END: Java com SpringBoot Framework // 
+Banco de dados: H2 // 
+Sistema de Mensagens: TwillioCloud Communications
